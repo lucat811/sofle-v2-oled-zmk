@@ -185,3 +185,6 @@ layers:
   - ''
   - ''
   - ''
+combos:
+- p: [42, 43]
+  k: '&mkp LCLK'
